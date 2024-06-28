@@ -1,0 +1,1493 @@
+{
+  "screenTitles": {
+    "accountScreen": "Cuenta",
+    "chatScreen": "Chat",
+    "loginScreen": "Acceso",
+    "signUpScreen": "Registrarse",
+    "settingsScreen": "Ajustes",
+    "myListingsScreen": "Mis listados",
+    "favoritesScreen": "Favoritos",
+    "reportScreen": "Informe",
+    "myMembershipScreen": "Mi membresía",
+    "contactUsScreen": "Contacta con nosotros",
+    "fAQScreen": "FAQ",
+    "howtoSellFastScreen": "Cómo vender rápido",
+    "moreScreen": "Mas opciones",
+    "myProfileScreen": "Mi perfil",
+    "editPersonalDetailScreen": "Editar detalles personales",
+    "aboutAppScreen": "Ventas",
+    "tNCScreen": "Términos y condiciones",
+    "privacyPolicyScreen": "política de privacidad",
+    "editListingScreen": "Editar lista",
+    "selectLocationScreen": "Seleccionar Ubicación",
+    "sendEmailScreen": "Enviar correo electrónico",
+    "selectCategoryScreen": "Selecciona una categoría",
+    "storeDetailsScreen": "Detalles de la tienda",
+    "allStores": "Todas las tiendas",
+    "myStoreScreen": "Mi tienda",
+    "membershipsScreen": "Paquetes de membresía",
+    "paymentMethodScreen": "Detalles de pago",
+    "promoteScreen": "Promocionar listado",
+    "paymentsScreen": "Pagos",
+    "paymentDetailScreen": "Detalles de pago",
+    "forgotPassScreen": "Has olvidado tu contraseña",
+    "oTPScreen": "Verificación OTP",
+    "documentsScreen": "Mis documentos",
+    "privacynSafetyScreen": "Privacidad y seguridad",
+    "hiddenListingsScreen": "Listados ocultos",
+    "blockedUsersScreen": "Usuarios bloqueados ",
+    "payScreen": "Hacer el pago",
+    "zeroPayment": "Pago"
+  },
+  "safetyScreenTexts": {
+    "hiddenListingsBtn": "Listados ocultos",
+    "blockedUsersBtn": "Usuarios bloqueados"
+  },
+
+  "adMobTexts": {
+    "okButton": "OK",
+    "appDisabledAlert": "Esta aplicación le ofrece anuncios mediante Google AdMob. Si desea habilitar anuncios personalizados, puede permitir el seguimiento de esta aplicación desde la configuración"
+  },
+
+  "weekDayNames": {
+    "0": "Domingo",
+    "1": "lunes",
+    "2": "Martes",
+    "3": "miércoles",
+    "4": "jueves",
+    "5": "Viernes",
+    "6": "sábado"
+  },
+
+  "alerts": {
+    "notificationRegistrationFail": "No se pudo registrar el dispositivo para recibir notificaciones automáticas",
+    "notificationPermission": "Habilite el permiso para recibir notificaciones automáticas.",
+    "simulatorAlert": "Debe utilizar un dispositivo físico para las notificaciones automáticas"
+  },
+
+  "tabTitles": {
+    "home": "Inicio",
+    "search": "Buscar",
+    "newListing": "Nuevo anuncio",
+    "chatList": "Chats",
+    "account": "Perfil"
+  },
+
+  "headerBackButtonTitle": "Atrás",
+
+  "accountScreenTexts": {
+    "loginButtonText": "Iniciar sesión / Registrarse",
+    "logOutButtonText": "Cerrar sesión",
+    "successMessage": "ÉxitoCerrado completamente",
+    "loginTitle": "Debes iniciar sesión para continuar",
+    "deleteAccountBtn": "Borrar cuenta",
+    "deleteAccountPrompt": "¿Quieres eliminar tu cuenta?",
+    "okBtnTitle": "Ok",
+    "deleteAccountMessageTitle": "¡Advertencia!",
+    "deleteAccountMessage": "¿Estás seguro de que quieres eliminar tu cuenta? Esta acción no se puede deshacer.",
+    "cancelBtnTitle": "Cancelar",
+    "confirmBtnTitle": "Confirmar acción de eliminación"
+  },
+
+  "settingsScreenTexts": {
+    "select": "Seleccionar",
+    "currencyTitle": "Divisa",
+    "screenTitle": "Ajustes",
+    "notificationTitle": "Notificación",
+    "languageTitle": "Idioma",
+    "ListingApprovalNotiTitle": "Aprobación de anuncios",
+    "newsletterNotiTitle": "Boletin informativo",
+    "messageNotiTitle": "Nuevo Chat",
+    "reminderBeforeListingExpire": "Recordatorio antes de que caduquen los anuncios",
+    "expiredListingNotification": "Listado caducado",
+    "onlyAdmin": {
+      "newListing": "Nuevo anuncio",
+      "newOrder": "Nuevos pedidos",
+      "newComment": "Nuevo comentario"
+    },
+    "logoutbuttonTitle": "Cerrar sesión",
+    "viewStyleTitle": "Estilo de visualización del listado",
+    "listView": "Vista de la lista"
+  },
+
+  "allStoresTexts": {
+    "noShopText": "Lo sentimos, no se encontró ninguna tienda.",
+    "storeAdCount": "Anuncios",
+    "searchPlaceholder": "Buscar..."
+  },
+
+  "forgotScreenTexts": {
+    "title": "Dirección de correo electrónico",
+    "message": "Ingrese su dirección de correo electrónico para restablecer la contraseña.",
+    "placeholder": "Nombre de usuario/dirección de correo electrónico",
+    "buttonTitle": "Continuar",
+
+    "passwordReset": "Recibirá un correo electrónico con un enlace para restablecer su contraseña.",
+    "resetSuccessMessage": "Se envió un enlace a su correo electrónico para restablecer su contraseña"
+  },
+
+  "chatListScreenTexts": {
+    "noChatTitleMessage": "Actualmente no tienes chats",
+    "noChatMessage": "¡Empiece a comprar y vender!",
+    "deletePromptMessage": "¿Realmente quieres eliminar esta conversación?",
+    "cancelButtonTitle": "Cancelar",
+    "deleteButtonTitle": "Borrar",
+    "noUserMessage": "Actualmente no estás conectado\nPor favor inicia sesión o regístrate para obtener tus datos de chat",
+    "chatDeleteSuccessText": "Eliminado exitosamente",
+    "chatDeleteErrorText": "¡Error! Inténtalo de nuevo",
+    "offlineNoticeText": "Estas desconectado",
+    "loginButtonTitle": "Iniciar sesión / Registrarse",
+    "scrollToRefresh": "Desplácese para actualizar la lista de chat"
+  },
+
+  "chatScreenTexts": {
+    "dactivatedMessage": "El receptor ha eliminado la conversación.",
+    "placeholder": {
+      "message": "Escribe un mensaje"
+    },
+    "reportBtnTitle": "Reportar abuso",
+    "reportAlertTitle": "Reportar usuario",
+    "reportAlertText": "¿Realmente desea denunciar a este usuario por actividad abusiva? Si informa, los administradores del sitio recibirán un informe sobre este usuario por actividad abusiva y revisarán el informe para futuras acciones. Además, esta conversación se eliminará y el usuario no podrá enviar ningún mensaje nuevo a través de esta conversación.",
+    "cancelBtnTitle": "Cancelar",
+    "confirmBtnTitle": "Reportar"
+  },
+
+  "contactUsScreenTexts": {
+    "sendmessageButtontitle": "Enviar mensaje",
+    "successMessage": "Envió exitosamente su mensaje",
+    "customServerResponseError": "¡Error del Servidor!",
+    "formData": {
+      "name": {
+        "label": "Su nombre",
+        "placeholder": "Introduzca su nombre...",
+        "errorLabel": "Nombre"
+      },
+      "phone": {
+        "label": "Número de teléfono",
+        "placeholder": "Ingresa número telefónico...",
+        "errorLabel": "Número de teléfono"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "example@email.com",
+        "errorLabel": "Email"
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Tu mensaje...",
+        "errorLabel": "Mensaje"
+      }
+    },
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength5": "Debe tener al menos 5 caracteres.",
+      "minimumLength3": "debe tener al menos 3 caracteres.",
+      "validEmail": "Debe ser un correo electrónico válido."
+    }
+  },
+
+  "editListingScreenTexts": {
+    "maxImageWarning": "El número máximo de imágenes ya está adjunto.",
+    "title": "Formulario de edición de listado",
+    "formFieldLabels": {
+      "listingTitle": "Título",
+      "pricingLabel": "Precios",
+      "priceType": "Tipo de precio",
+      "price": "Precio",
+      "maxPrice": "Precio Máximo",
+      "listingDescription": "Descripción",
+      "videoUrl": "Video URL",
+      "contact": "Detalles de contacto",
+      "zipCode": "Codigo Postal",
+      "address": "Direccion",
+      "phone": "telefono",
+      "whatsapp": "Whatsapp",
+      "email": "Email",
+      "website": "Sitio Web",
+      "name": "NaNombre",
+      "imageInput": "Imagenes",
+      "formTitle": "Información del Producto",
+      "title": "Titulo"
+    },
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength5": "Debe tener al menos 5 caracteres.",
+      "minimumLength3": "Debe tener al menos 3 caracteres.",
+      "validEmail": "Debe ser un correo electrónico válido.",
+      "validUrl": "Debe ser una URL válida."
+    },
+    "buttonTitles": {
+      "tryAgain": "Intentar otra vez",
+      "updateListing": "Actualizar listado",
+      "mapStandard": "Estándar",
+      "mapHybrid": "Híbrido"
+    },
+    "mapToggleMessage": "No muestres el mapa.",
+    "whatsappNote": "Número de whatsapp con el código de tu país. Ej. +53xxxxxxxx",
+    "uploadErrorNotice": "¡Error al cargar! Inténtalo de nuevo.",
+    "uploadingNotice": "Esto puede tardar un poco dependiendo de la velocidad de su conexión a Internet...",
+    "maxImageCount": "Puedes subir hasta ",
+    "images": " imágenes.",
+    "dragAndSort": "Mantenga presionado para arrastrar y ordenar imágenes.",
+    "loading": "Obtener datos del listado",
+    "geoCoderFail": "¡Error en el servicio de mapas!",
+    "imageFieldCustomError": "Se requiere imagen",
+    "requiredFieldCustomError": "Este campo es obligatorio",
+    "websiteErrorLabel": "¡Ingrese la URL correcta!",
+    "videoUrlErrorLabel": "¡Ingrese la URL en el formato correcto!",
+    "videoUrlNote": "E.g.https://www.youtube.com/watch?v=RiXdDGk_XCU",
+    "requiredFieldNotice": "*** Los campos marcados con estrella roja son obligatorios ***",
+    "socialProfileTitle": "perfiles sociales"
+  },
+
+  "editPersonalDetailScreenTexts": {
+    "screenTitle": "Detalle personal",
+    "changePhotoButtonTitle": "Cambiar foto",
+    "updateDetailsButtonTitle": "Guardar información",
+    "passwordToggleText": "Cambiar la contraseña",
+    "passwordNotSameMessage": "La contraseña no coincide",
+    "successText": "Actualizado exitosamente",
+    "errorText": "¡Error! Inténtalo de nuevo",
+    "cancelButtonTitle": "Cancelar",
+    "addPhotoTitle": "Añadir foto",
+    "takePhotoButtonTitle": "Tomar foto",
+    "fromGalleryButtonTitle": "De la galería",
+    "fieldLabels": {
+      "firstName": "Nombre",
+      "lastName": "Apellidos",
+      "changePassword": "Cambiar la contraseña",
+      "newPassword": "Nueva contraseña",
+      "confirmPassword": "Confirmar Contraseña",
+      "phone": "Número de teléfono",
+      "whatsapp": "Número de whatsapp",
+      "website": "Sitio web",
+      "zipcode": "Código postal",
+      "address": "Direccion",
+      "locations": "Ubicaciones",
+      "password": "Contraseña"
+    },
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength5": "Debe tener al menos 5 caracteres.",
+      "minimumLength3": "Debe tener al menos 3 caracteres.",
+      "validUrl": "Debe ser una URL válida."
+    },
+    "enterNewPassword": "Ingrese nueva clave",
+    "reEnterPassword": "Escriba la contraseña otra vez",
+    "cameraRollPermissionAlert": "Debe habilitar el permiso para acceder a la biblioteca de imágenes. ",
+    "cameraPermissionAlert": "Necesitas habilitar el permiso para acceder a la cámara. "
+  },
+
+  "favoritesScreenTexts": {
+    "removePromptMessage": "¿Quieres eliminar este anuncio de tus favoritos?",
+    "cancelButtonTitle": "Cancelar",
+    "removeButtonTitle": "Eliminar",
+    "noFavoriteMessage": "Aún no tienes ningún anuncio en tus favoritos.",
+    "exploreTitle": "Ver todos los anuncios",
+    "favRemoveSuccessMessage": "Eliminado exitosamente",
+    "favRemoveErrorCustomMessage": "¡Error! Inténtalo de nuevo",
+    "customServerResponseError": "Error al obtener datos del servidor",
+    "noInternet": "Sin internet"
+  },
+
+  "homeScreenTexts": {
+    "selectCatBtn": "Cambiar",
+    "seAllButtonText": "Ver todas las categorías",
+    "listingSearchPlaceholder": "Buscar...",
+    "noListingsMessage": "Lo sentimos... No se encontraron listados.",
+    "selectLocationText": "Ubicación",
+    "latestAdsText": "Últimos anuncios",
+    "topCategoriesText": "Categorías",
+    "requestTimedOut": "¡Tiempo de espera agotado!",
+    "exitAppWarning": "¿Estás seguro de que quieres salir de la aplicación?",
+    "cancelButtonTitle": "Cancelar",
+    "yesButtonTitle": "Sí",
+    "retryBtn": "Reintentar",
+    "refreshBtn": "Actualizar"
+  },
+
+  "listingDetailScreenTexts": {
+    "soldOutMessage": "Agotado",
+    "cancelButtonTitle": "Cancelar",
+    "loginButtonTitle": "Acceso",
+    "pageTitle": "Detalles",
+    "showLess": "Muestra menos",
+    "showMore": "Mostrar más",
+    "sellerPrefix": "En venta por",
+    "description": "Descripción",
+    "mapButtons": {
+      "standard": "Estándar",
+      "hybrid": "Híbrido"
+    },
+    "similar": "Anuncios similares",
+    "call": "Llamar ",
+    "custom_fields": {
+      "date_range": {
+        "start": "Comenzar : ",
+        "end": "Fin : "
+      },
+      "date_time_range": {
+        "start": "Comenzar : ",
+        "end": "Fin : "
+      }
+    },
+    "chatLoginAlert": "Por favor inicia sesión para chatear con este vendedor",
+    "emailLoginAlert": "Por favor inicie sesión para enviar correo al vendedor",
+    "loginAlert": "Por favor inicie sesión para utilizar esta función.",
+    "priceTypes": {
+      "fixed": "Fijo",
+      "onCall": "En llamada",
+      "negotiable": "Negociable"
+    },
+    "socialProfileTitle": "perfiles sociales",
+    "businessHoursTitle": "Horarios de apertura",
+    "bHTexts": {
+      "openTitle": "Abierto",
+      "closeTitle": "Cerrado",
+      "openText": "Abierto (24 horas)",
+      "openTodayText": "Abierto hoy (24 horas)",
+      "closeText": "Cerrado",
+      "closeTodayText": "Cerrado hoy",
+      "currentStatusOpen": "Actualmente estamos abiertos.",
+      "currentStatusClose": "Lo sentimos, actualmente estamos cerrados."
+    },
+    "whatsappButton": "Abrir whatsapp",
+    "showRatingBtn": "Mostrar calificaciones",
+    "hideRatingBtn": "Ocultar calificaciones",
+    "ratingHeader": {
+      "zero": "Sin evaluar",
+      "single": " Revisar",
+      "multiple": " Reseñas"
+    },
+    "ratingFormTitle": "Dejar un comentario",
+    "ratingFormNotice": "Su dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con una estrella roja.",
+    "formLabels": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "title": "Título de Revisión",
+      "rating": "Tu clasificación",
+      "review": "Tu reseña"
+    },
+    "formValidation": {
+      "required": "se requiere",
+      "invalid": "Es invalido"
+    },
+    "submitBtn": "Entregar",
+    "reviewNotice": "Su reseña ha sido enviada exitosamente. Una vez que se apruebe, se mostrará con las otras revisiones.",
+    "reviewApproved": "La revisión fue exitosa.",
+    "postTimePrefix": "Al corriente ",
+    "deletedValue": "[Valor eliminado por el administrador]",
+    "seeAllAds": "Ver todos los anuncios",
+    "verified": "Vendedor verificado",
+    "share": "Compartir este anuncio",
+    "blockAd": "No me muestres este anuncio",
+    "unfollowSeller": "No me muestres anuncios de este vendedor",
+    "reportAd": "Reportar este anuncio",
+    "blockAdAlert": "¿Realmente quieres ocultar este anuncio? Si lo oculta, este anuncio ya no se le mostrará.",
+    "blockAdConfirmBtn": "Esconder",
+    "blockAdCancelBtn": "Cancelar",
+    "blockAdSuccessMessage": "El listado se ha ocultado correctamente.",
+    "blockUserAlert": "¿Realmente quieres bloquear a este usuario? Si bloquea, no podrá ver ningún anuncio de este usuario y no podrá enviarle ningún mensaje.",
+    "blockUserConfirmBtn": "Bloquear",
+    "blockUserCancelBtn": "Cancelar",
+    "blockUserSuccessMessage": "El usuario ha sido bloqueado con éxito."
+  },
+
+  "hiddenListingsTexts": {
+    "unBlockListingBtnTitle": "Mostrar",
+    "unBlockAlert": "¿Realmente quieres mostrar este anuncio?",
+    "okBtnTitle": "Confirmar",
+    "cancelBtnTitle": "Cancelar",
+    "unBlockSuccessMessage": "El listado se ha mostrado correctamente.",
+    "listEmptyMessage": "Aún no ocultaste ningún anuncio. Desplácese hacia abajo para actualizar la lista."
+  },
+
+  "blockedUsersTexts": {
+    "unBlockUserBtnTitle": "Desbloquear",
+    "unBlockAlert": "¿Realmente quieres desbloquear a este usuario?",
+    "okBtnTitle": "Confirmar",
+    "cancelBtnTitle": "Cancelar",
+    "unBlockSuccessMessage": "El usuario ha sido desbloqueado con éxito.",
+    "listEmptyMessage": "Aún no bloqueaste a ningún usuario. Desplácese hacia abajo para actualizar la lista."
+  },
+
+  "loginScreenTexts": {
+    "signUpPrompt": "¿No tienes cuenta?",
+    "loginTitle": "Iniciar sesión",
+    "formFieldsPlaceholder": {
+      "username": "Nombre de usuario/correo electrónico",
+      "password": "Contraseña"
+    },
+    "forgotPassword": "¿Has olvidado tu contraseña?",
+    "cancelButtonTitle": "Cancelar",
+    "signUpButtonTitle": "Crear una cuenta",
+    "loginButtonTitle": "Iniciar sesión",
+    "loginSuccessMessage": "Iniciado sesión exitosamente",
+    "formFieldsLabel": {
+      "username": "Nombre de usuario",
+      "password": "Contraseña",
+      "reset": "Nombre de usuario/correo electrónico"
+    },
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength3": "debe tener al menos 3 caracteres."
+    },
+    "customResponseError": "Error del Servidor",
+    "socialButtonTitle": {
+      "facebook": "Facebook",
+      "google": "Google"
+    },
+    "pleaseWaitText": "¡Espere por favor!",
+    "socialLoginText": "O inicia sesión con"
+  },
+
+  "membershipsScreenTexts": {
+    "makePayment": "Hacer el pago",
+    "checkOut": "Verificar"
+  },
+
+  "oTPScreenText": {
+    "phoneInputTitle": "Ingresa número telefónico",
+    "oTPInputTitle": "Ingrese OTP",
+    "phoneInputPlaceHolder": "Número de teléfono",
+    "getOTPButtonTitle": "Enviar OTP",
+    "verifyBtnTitle": "Verificar",
+    "retryBtnTitle": "Reenviar OTP",
+    "successTitle": "Verificación exitosa",
+    "errorTitle": "Fallo en la verificación",
+    "successMessage": "El número de teléfono se verificó correctamente.",
+    "errorMessage": "Error al verificar OTP",
+    "okBtnTitle": "Ok",
+    "signUpBtnTitle": "Regístro completo"
+  },
+
+  "myListingsScreenTexts": {
+    "loggedOut": "Usted no se ha identificado.",
+    "deletePromptMessage": "Quieres borrar",
+    "editPromptMessage": "¿Quieres editar?",
+    "promotePromptMessage": "¿Quieres promocionar?",
+    "soldPromptMessage": "¿Quieres marcar?",
+    "renewPromptMessage": "¿Quieres renovar?",
+    "asUnsold": "sin vender",
+    "asSold": "como vendido",
+    "cancelButtonTitle": "Cancelar",
+    "okayButtonTitle": "Ok",
+    "deleteButtonTitle": "Borrar",
+    "editButtonTitle": "Editar",
+    "promoteButtonTitle": "Promover",
+    "renewButtonTitle": "Renovar",
+    "noAdTitle": "¡Actualmente no tienes ningún anuncio!",
+    "postAdButtonTitle": "¡Crea un nuevo anuncio!",
+    "listingDeleteSuccessText": "Eliminado exitosamente",
+    "listingDeleteErrorText": "¡Error! Inténtalo de nuevo",
+    "actionMenuButtons": {
+      "edit": "Editar",
+      "delete": "Borrar",
+      "promote": "Promover",
+      "sold": "Marcar como vendido",
+      "unsold": "Marcar como no vendido",
+      "renew": "Renovar"
+    },
+
+    "promoteLink": "https://compra-ventas.store/",
+    "customServerErrorMessage": "Error al obtener datos del servidor.",
+    "noInternet": "Sin internet"
+  },
+
+  "myMembershipScreenTexts": {
+    "title": "Become our member!",
+    "membershipText": "Membership gives your business a voice and presence on our platform to reach more customers,increase your sales and expand your business!",
+    "emailLabel": "Email : ",
+    "membershipDetailHeader": "Membership Report",
+    "membershipStatusLabel": "Status : ",
+    "subscriptionStatusLabel": "Status : ",
+    "subscriptionNameLabel": "Package Name : ",
+    "subscriptionMethodLabel": "Method : ",
+    "subscriptionCancelBtnTitle": "Cancel Subscription",
+    "subscriptionPMUpdateBtnTitle": "Update",
+    "subscriptionCancelConfirmation": "Do you really want to cancel this subscription?",
+    "cancelBtnTitle": "No",
+    "hideCardElementBtnTitle": "Hide",
+    "paymentMethodUpdateSuccessMessage": "Payment method updated successfully.",
+    "confirmBtnTitle": "Confirm",
+    "membershipValidityLabel": "Validity : ",
+    "remainingAdsLabel": "Remaining Ads : ",
+    "postedAdsLabel": "Posted Ads : ",
+    "freeAdsLabel": "Free Ads : ",
+    "remainingAdsTableLabel": "Remaining Ads",
+    "membershipValidityTableLabel": "Validity",
+    "upgradeMembershipPackageButtonTitle": "Show More Packages",
+    "showMembershipPackageButtonTitle": "Show Membership Packages",
+    "active": "Active",
+    "expired": "Expired",
+    "till": "Till",
+    "expiredOn": "Expired on",
+    "promotions": "Promotions",
+    "validityUnit": "Days",
+    "subscriptionReportTitle": "Subscription Report"
+  },
+
+  "myProfileScreenTexts": {
+    "customResponseError": "Error al obtener datos del servidor",
+    "profileInfoLabels": {
+      "name": "Nombre completo",
+      "email": "Dirección de correo electrónico",
+      "phone": "Número de teléfono",
+      "whatsapp": "Whatsapp",
+      "address": "Ubicación",
+      "website": "Perfil de Facebook"
+    },
+    "noInternet": "Sin internet",
+    "screenTitle": "Informacion personal",
+    "infoSectionTitle": "Informacion personal",
+    "editButtonTitle": "Editar informacion",
+    "verifyBtnTitle": "Verificar",
+    "addPhoneBtnTitle": "Agregar el número de teléfono",
+    "phoneVerifyAlert": "Verifique su número de teléfono antes de actualizar la información del perfil."
+  },
+
+  "myStoreTexts": {
+    "banner": "Portada de tienda",
+    "closed": "Cerrado",
+    "noBanner": "Aún no se ha subido ninguna portada",
+    "logo": "Logotipo de la tienda",
+    "schedule": "Horario de la tienda",
+    "hours": "Horario de apertura",
+    "selectHours": "Seleccionar Horario de Apertura",
+    "info": "Información de la tienda",
+    "slug": " Slug / URL de la tienda",
+    "storeName": "Nombre de la tienda",
+    "storeSlogan": "Lema de la tienda",
+    "storeEmail": "Correo electrónico de la tienda",
+    "storePhone": "Telèfono de la tienda",
+    "storeWebsite": "Sitio web de la tienda",
+    "storeAddress": "Direccion de la tienda",
+    "storeDescription": "Descripcion de la tienda",
+    "storeSocial": "Redes Sociles de la tienda",
+    "facebook": "Facebook URL",
+    "youtube": "Youtube URL",
+    "twitter": "Twitter URL",
+    "linkedin": "LinkedIn URL",
+    "updateStoreButtonTitle": "Actualizar tienda",
+    "imagePickerTitle": "Añadir foto",
+    "imagePickerCameraText": "Hacer foto",
+    "imagePickerGalleryText": "De la galería",
+    "errorFieldNames": {
+      "slug": "Slug / URL de la tienda",
+      "title": "Nombre de la tienda",
+      "slogan": "Eslogan de la tienda",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono",
+      "address": "Direccion",
+      "website": "Sitio Web",
+      "description": "Descripción",
+      "facebook": "Facebook",
+      "youtube": "Youtube",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn"
+    },
+    "placeHolders": {
+      "slug": "Slug de tienda",
+      "title": "Nombre de la tienda",
+      "slogan": "Eslogan de la tienda",
+      "email": "tutienda@tienda.com",
+      "phone": "+0123456789",
+      "address": "Direccion de la tienda",
+      "website": "https://www.yourstore.com",
+      "description": "Descripción de la tienda",
+      "facebook": "https://www.facebook.com/tutienda",
+      "youtube": "https://www.youtube.com/tutienda",
+      "twitter": "https://www.twitter.com/tutienda",
+      "linkedin": "https://www.linkedin.com/tutienda"
+    },
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength5": "Debe tener al menos 5 caracteres.",
+      "minimumLength3": "debe tener al menos 3 caracteres.",
+      "validEmail": "Debe ser un correo electrónico válido.",
+      "validUrl": "Debe ser una URL válida."
+    },
+    "successNotifications": {
+      "logo": "Logotipo actualizado correctamente.",
+      "banner": "Foto de Portada actualizada correctamente.",
+      "storeInfo": "Información de la tienda actualizada correctamente."
+    },
+    "errorNotification": "Error del Servidor. Por favor intente mas tarde.",
+    "userHasNoStore": "El usuario no tiene tienda.",
+    "storeCreateMessage": "¿Quieres crear tu tienda?",
+    "createStoreButtonTitle": "Crear tienda",
+    "cancelButtonTitle": "Cancelar",
+    "cameraRollPermissionAlert": "Debes habilitar el permiso de la galeria para usar esta función",
+
+    "cameraPermissionAlert": "Necesitas habilitar el permiso para acceder a tu cámara",
+    "recommendedSize": "Tamaño recomendado (",
+    "maximum": "Máximo ",
+    "alwaysOpen": "Siempre abierto"
+  },
+
+  "newListingScreenTexts": {
+    "title": "Formulario de listado",
+    "selectType": "Seleccione un tipo",
+    "selectCategory": "Seleccione una categoría",
+    "selectLocation": "Seleccionar Ubicación",
+    "eligibilityChecking": "Comprobar la elegibilidad del autor",
+    "noRemainingAds": "¡Lo siento! No te quedan anuncios",
+    "purchaseMembership": "Compre o renueve su membresía para publicar más anuncios",
+    "goBackButtonTitle": "Regresa",
+    "membershipButtonTitle": "Afiliación",
+    "notLoggedIn": "No has iniciado sesión",
+    "loginOrSignUp": "Por favor inicia sesión o regístrate para crear una publicación.",
+    "loginOrSignUpButtonTitle": "Iniciar sesión Registrarse",
+    "unverifiedTitle": "¡Cuenta no verificada!",
+    "unverifiedAccountWithoutPhoneNumber": "Verifique su cuenta usando el número de teléfono.",
+    "unverifiedAccountWithPhoneNumber": "Por favor verifique su número de teléfono.",
+    "verifyBtnTitle": "Verificar",
+    "addPhoneBtnTitle": "Agregar el número de teléfono",
+    "categoryRestriction": "¡Lo siento! Su paquete de membresía no permite crear nuevos anuncios en esta categoría.",
+    "catagoryLoadError": "Error al obtener categorías. Inténtalo de nuevo."
+  },
+
+  "reportScreenTexts": {
+    "serverResponse": {
+      "success": "Informe enviado correctamente",
+      "fail": "Error al enviar el informe, inténtelo de nuevo"
+    },
+    "questionText": "Algo está mal en este aviso?",
+    "directionText": "Envíenos un informe si cree que hay un problema con este anuncio.",
+    "formFieldLabels": {
+      "message": "Mensaje"
+    },
+    "formFieldPlaceholders": {
+      "message": "Tu mensaje"
+    },
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength3": "Debe tener al menos 5 caracteres."
+    },
+    "sendReportButtonTitle": "Enviar reporte"
+  },
+
+  "searchScreenTexts": {
+    "noListingFoundMessage": "¡Lo siento! No se encontró ningún listado.",
+
+    "loadingFiltersMessage": "Cargando filtros",
+    "radiusSearchTitle": "Búsqueda de radio",
+    "radiusSearchCenterPlaceholder": "Centro de búsqueda",
+    "locationPermissionAlert": "Debes habilitar el permiso de ubicación para usar esta función",
+    "location": "Ubicación",
+    "category": "Categoría",
+    "allCategories": "Categorías",
+    "filterTitle": "Filtros",
+    "filterLabels": {
+      "sortBy": "Ordenar por",
+      "listingType": "Tipo de listado",
+      "priceRangeLabel": "Rango de precios"
+    },
+    "rangeEnd": "A",
+    "rangeStart": "De",
+    "clearAllButtonTitle": "Limpiar todo",
+    "applyFiltersButtonTitle": "Aplicar filtros"
+  },
+
+  "selectCategoryScreenTexts": {
+    "errorMessages": {
+      "serverError": "Error del Servidor",
+      "timeOut": "Tiempo de espera agotado"
+    },
+    "showAllofCategory": "Mostrar todo",
+    "showAll": "Mostrar todo",
+    "selectSubCategory": "Seleccionar subcategoría",
+    "allCategory": "Categorías"
+  },
+
+  "selectLocationScreenTexts": {
+    "errorMessages": {
+      "serverError": "Error del Servidor",
+      "timeOut": "Tiempo de espera agotado"
+    },
+    "showAllofLocation": "Mostrar todo",
+    "showAll": "Mostrar todo",
+    "nextLevelLocation": "Seleccione la ubicación del siguiente nivel"
+  },
+
+  "sendEmailScreenTexts": {
+    "serverResponse": {
+      "success": "Correo electrónico enviado correctamente",
+      "fail": "Error al enviar el correo electrónico. Inténtelo de nuevo.",
+      "timeOut": "¡Tiempo de espera agotado! Inténtalo de nuevo"
+    },
+    "formFieldPlaceholders": {
+      "message": "Tu mensaje",
+      "name": "Su nombre",
+      "email": "Tu correo electrónico",
+      "phone": "Su teléfono"
+    },
+    "formFieldLabels": {
+      "message": "Mensaje",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono"
+    },
+    "sendEmailButtonTitle": "Enviar correo electrónico",
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength3": "debe tener al menos 3 caracteres.",
+      "validEmail": "Debe ser un correo electrónico válido."
+    }
+  },
+
+  "signUpScreenTexts": {
+    "title": "Registrate",
+    "formFieldLabels": {
+      "first_name": "Nombre",
+      "last_name": "Apellidos",
+      "username": "Nombre de usuario",
+      "phone": "Número de teléfono",
+      "email": "Dirección de correo electrónico",
+      "password": "Contraseña"
+    },
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength3": "debe tener al menos 3 caracteres.",
+      "minimumLength5": "Debe tener al menos 5 caracteres.",
+      "minimumLength6": "Debe tener como mínimo 6 caracteres.",
+      "validEmail": "Debe ser un correo electrónico válido."
+    },
+    "formFieldPlaceholders": {
+      "first_name": "Nombre de pila",
+      "last_name": "Apellido",
+      "username": "Nombre de usuario",
+      "phone": "+5355555555",
+      "email": "user@email.com",
+      "password": "Contraseña"
+    },
+    "signupSuccessMessage": "El registro fue exitoso",
+    "mailVerification": "Se envió un correo electrónico a su dirección de correo con un enlace de verificación, en el caso que no lo encuentre busque en su carpeta SPAM. Por favor verifique su dirección de correo electrónico antes de iniciar sesión.",
+    "errorMessage": {
+      "timeoutError": "Tiempo de espera agotado",
+      "serverError": "Error del Servidor"
+    },
+    "signUpButtonTitle": "Inscribirse",
+    "signInButtonTitle": "Iniciar sesión",
+    "signinMessage": "¿Ya tienes una cuenta?"
+  },
+
+  "promoteScreenTexts": {
+    "membershipPromotions": "Promociones de membresía",
+    "promotions": "Promociones",
+    "remainingads": "Remaining Ads",
+    "validDuration": "Duration",
+    "validPeriodUnit": "Days",
+    "regularPromotions": "Regular Promotions",
+    "validity": "Validity",
+    "price": "Price",
+    "confirmPromotion": "Confirm Promotion",
+    "proceedToPayment": "Proceed to Payment",
+    "success": "Promotion Successful",
+    "fail": "Promotion Failed",
+    "goBackButton": "Go Back",
+    "checkOut": "Check Out"
+  },
+
+  "paymentMethodScreen": {
+    "selectedPackage": "Selected Package",
+    "promotionConfirmation": "You are promoting",
+    "promotionPlan": "Promotion Plan",
+    "packagePrice": "Package Price",
+    "promotionPrice": "Promotion Price",
+    "subTotal": "Sub Total",
+    "paymentDetail": "Payment Detail",
+    "choosePayment": "Choose Payment Method",
+    "proceedPayment": "Proceed To Payment",
+    "unknownError": "Unknown error occured. Please try again later.",
+    "payment": {
+      "paymentID": "Payment #",
+      "totalAmount": "Paid Amount",
+      "discount": "Coupon Discount",
+      "originalPrice": "Original Price",
+      "orderDate": "Order date",
+      "paymentDate": "Payment date",
+      "method": "Payment Method",
+      "status": "Payment Status",
+      "transactionID": "Transaction Key",
+      "orderKey": "Order Key",
+      "instructions": "Instructions"
+    },
+    "billing": {
+      "requiredError": "Este campo es obligatorio",
+      "title": "Detalle de facturación",
+      "firstNameTitle": "Nombre de pila",
+      "firstNamePlaceholder": "First Name",
+      "lastNameTitle": "Last Name",
+      "lastNamePlaceholder": "Last Name",
+      "companyTitle": "Company Name",
+      "companyPlaceholder": "My Company",
+      "streetAddressTitle": "Street Address",
+      "streetAddressPlaceholder": "House number & Street name",
+      "addressLine2Title": "Apartment, suite, unit, etc.",
+      "addressLine2Placeholder": "Apartment, suite, unit, etc.",
+      "cityorTownTitle": "Town / City",
+      "cityorTownPlaceholder": "Town / City",
+      "emailTitle": "Email address",
+      "emailPlaceholder": "myemail@mail.com",
+      "countryTitle": "Country / Region",
+      "countryPlaceholder": "Country / Region",
+      "stateTitle": "State",
+      "statePlaceholder": "State",
+      "postCodeTitle": "ZIP Code",
+      "postCodePlaceholder": "ZIP Code e.g. 12346",
+      "countryCodeTitle": "Country Code",
+      "countryCodePlaceholder": "Country Code",
+      "phoneTitle": "Phone",
+      "phonePlaceholder": "12434545",
+      "fieldRequiredAlert": "Please fill up all required data.",
+      "fieldRequiredMessage": "The following fields are required \n",
+      "okBtnTitle": "Ok"
+    },
+    "plan": {
+      "pricingOption": "Pricing Option",
+      "membershipTitle": "Membership Title",
+      "duration": "Duration",
+      "amount": "Amount",
+      "details": "Details",
+      "description": "Description"
+    },
+    "closeButton": "Close",
+    "paypalRedirectNotice": "Redirecting to Paypal",
+    "paymentProcessing": "Payment Processing",
+    "goToAccountButton": "Go Back to Account",
+    "invalidCardMessage": "Please enter valid card info.",
+    "paymentVerifying": "Verifying Payment.",
+    "orderSuccess": "Order was successful!",
+    "applyButton": "Apply",
+    "removeButton": "Remove",
+    "couponPlaceholder": "Enter coupon code",
+    "couponDiscount": "Coupon Discount",
+    "couponValidationFailed": "Coupon validation failed. Please try again.",
+    "noPaymentGateway": "No payment gateway data found.",
+    "paymentFailed": "Payment failed!",
+    "retry": "Retry"
+  },
+
+  "paymentsScreenTexts": {
+    "unknownError": "Unknown error occured! Please try again.",
+    "retryButton": "Retry",
+    "paymentMethodPrefix": "Paid via",
+    "refreshButton": "Refresh",
+    "emptyListMessage": "Sorry! You do not have any payment history."
+  },
+
+  "paymentDetailScreen": {
+    "errorNotice": "Error occured while getting payment data!",
+    "originalErrorLabel": "Original Error :",
+    "features": "Features",
+    "invoiceNo": "Invoice No:",
+    "payNowBtnTitle": "Pay Now"
+  },
+  "paymentScreen": {
+    "goBackBtnTitle": "Go back"
+  },
+
+  "storeDetailsTexts": {
+    "title": "Detalles de la tienda",
+    "nullText": "No provisto",
+    "alwaysOpen": "Siempre abierto",
+    "emptyListing": "Lo sentimos, ¡esta tienda aún no tiene listado!",
+    "storeExpired": "Esta tienda no está disponible debido a que la membresía del propietario de esta tienda ha caducado.",
+    "goBackButtonTitle": "Regresa",
+    "membership": "Miembro desde",
+    "membershipMomentFormate": "DD MM AAAA",
+    "openingHourOpen": "Abierto",
+    "openingHourClose": "Cerrado",
+    "viewMoreButtonText": "Ver más sobre esta tienda",
+    "latestAds": "Últimos anuncios",
+    "cancelButtonTitle": "Cancelar",
+    "viewsCount": "Views : ",
+    "noData": "Datos no proporcionados.",
+    "loginButtonTitle": "Acceso",
+    "loginAlert": "Por favor inicie sesión para enviar correo a la tienda",
+    "fullDayOpen": "Abierto todo el día",
+    "closed": "Cerrado",
+    "messageToStoreOwner": "Mensaje",
+    "viewMore": "Ver más sobre esta tienda",
+    "callPrompt": "¿Llamar a esta tienda?",
+    "verified": "Vendedor verificado",
+    "loginToSee": "Por favor inicia sesión para ver información."
+  },
+
+  "storeMoreDetailTexts": {
+    "sectionTitles": {
+      "openinigDateTime": "Fecha y hora de apertura",
+      "storeAddress": "Dirección de la tienda",
+      "storeDetails": "Detalles de la tienda",
+      "social": "Redes Sociales de la tienda"
+    },
+    "alwaysOpen": "Siempre abierto",
+    "closed": "Cerrado",
+    "cancelButtonTitle": "Cancelar",
+    "noData": "Datos no proporcionados.",
+    "loginButtonTitle": "Acceso",
+    "loginAlert": "Por favor inicie sesión para enviar correo a la tienda",
+    "fullDayOpen": "Abierto todo el día",
+    "messageToStoreOwner": "Mensaje",
+    "callPrompt": "¿Llamar a esta tienda?"
+  },
+
+  "myDocScreenTexts": {
+    "titles": {
+      "photoId": "Identificación fotográfica",
+      "otherDoc": "Otro documento"
+    },
+    "notes": {
+      "photoId": {
+        "maxSize": "Tamaño máximo de archivo ",
+        "types": "Tipos de imagen permitidos "
+      },
+      "otherDoc": {
+        "maxSize": "El tamaño máximo de archivo es de 5 MB.",
+        "types": "Tipos de archivos permitidos: pdf."
+      }
+    },
+    "errorMsg": {
+      "photoId": {
+        "maxSize": "Tamaño de archivo máximo permitido ",
+        "types": "Los tipos de imágenes permitidos son "
+      },
+      "otherDoc": {
+        "maxSize": "El tamaño máximo de archivo permitido es 5 MB.",
+        "types": "Sólo se permiten archivos pdf."
+      }
+    },
+    "buttons": {
+      "upload": "Subir archivo",
+      "download": "Descargar archivo",
+      "change": "Cambiar archivo"
+    }
+  },
+
+  "datePickerTexts": {
+    "selectDate": "Seleccione fecha",
+    "selectTime": "Seleccionar hora",
+    "okButtonTitle": "OK"
+  },
+
+  "dateRangePickerTexts": {
+    "selectStartDate": "Seleccione la fecha de inicio",
+    "selectEndDate": "Seleccionar fecha de finalización",
+    "selectStartTime": "Seleccionar hora de inicio",
+    "selectEndTime": "Seleccionar hora de finalización",
+    "okButtonTitle": "OK"
+  },
+
+  "dynamicFilterListPickerTexts": {
+    "selectText": "Seleccione una opción"
+  },
+
+  "dynamicListPickerTexts": {
+    "selectText": "Seleccione un"
+  },
+
+  "favouritesItemTexts": {
+    "viewsText": "Views :"
+  },
+
+  "imageInputTexts": {
+    "cancelButtonTitle": "Cancelar",
+    "ifImageLibraryPermissionDenied": "Debe habilitar el permiso para acceder a la biblioteca de imágenes.",
+    "ifCameraPermissionDenied": "Necesitas habilitar el permiso para acceder a tu cámara",
+    "deleteMessageHeader": "Borrar",
+    "deletePrompt": "¿Realmente quieres eliminar esta imagen?",
+    "yesButton": "Si",
+    "noButton": "No",
+    "addPhoto": "Añadir foto",
+    "takePhoto": "Tomar foto",
+    "fromGallery": "De la galería"
+  },
+
+  "imageInputListTexts": {
+    "addPhotosButtonTitle": "Agregar fotos",
+    "addPhotoButtonTitle": "Añadir foto"
+  },
+
+  "listingCardTexts": {
+    "soldOutBadgeMessage": "Agotado"
+  },
+
+  "listingFormTexts": {
+    "imageRequired": "**Adjunte al menos una imagen.**",
+    "maxImageWarning": "El número máximo de imágenes ya está adjunto.",
+    "currencyLabel": "Divisa",
+    "formTitle": "Información del Producto",
+    "fieldRequiredErrorMessage": "Este campo es obligatorio",
+    "tnCToggleText": "He leído y acepto el sitio web",
+    "tncText": " Términos y condiciones",
+    "tncTitleText": "Términos y condiciones",
+    "listingTitleLabel": "Título",
+    "videoURLLabel": "Link del Video",
+    "pricingLabel": "Precios",
+    "priceTypeLabel": "Tipo de precio",
+    "priceLabel": "Precio",
+    "maxPriceLabel": "Precio Máximo",
+    "minPriceLabel": "Precio mínimo",
+    "priceUnitLabel": "Precio unitario",
+    "listingDescriptionLabel": "Descripción",
+    "contactTitle": "Detalles de contacto",
+    "zipCodeLabel": "Código postal",
+    "addressLabel": "DIRECCIÓN",
+    "websiteErrorLabel": "¡Ingrese la URL correcta!",
+    "geoAddressLabel": "Dirección geográfica",
+    "phoneLabel": "Teléfono",
+    "whatsappLabel": "Whatsapp",
+    "whatsappNote": "Número de whatsapp con el código de tu país. Ej. +535555555",
+    "emailLabel": "Correo electrónico",
+    "websiteLabel": "Sitio web",
+    "nameLabel": "Nombre",
+    "imagesLabel": "Adjuntar imagen",
+    "maxImageCount": "Puedes subir hasta ",
+    "images": " imagenes.",
+    "maxCountLimitReached": "El número total de imágenes superó el límite máximo permitido.",
+    "dragSortText": "La primera imagen es la imagen del título. Mantenga presionado para arrastrar y ordenar imágenes.",
+    "uploadingNoticeText": "Esto puede tardar un poco dependiendo de la velocidad de su conexión a Internet....",
+    "uploadErrorNoticeText": "¡Error al cargar! Inténtalo de nuevo.",
+    "submitButtonTitle": "Aplique ahora",
+    "successTitle": "¡Felicitaciones!",
+    "successMessage": "Su anuncio fue publicado exitosamente",
+    "goBackBtnTitle": "Regresa",
+    "socialProfileTitle": "Redes Sociales",
+    "tryAgainButtonTitle": "Intentar otra vez",
+    "mapToggleTitle": "No muestres el mapa.",
+    "geoCoderFail": "¡Error en el servicio de mapas!",
+    "videoURLInvalid": "URL no válido!",
+    "videoURLNote": "E.g. https://www.youtube.com/watch?v=xrtfxxxx",
+    "businessHoursTitle": "Horarios de apertura",
+    "businessHoursToggleTitle": "Activar Horario de Apertura",
+    "businessHoursToggleNote": "Define tus horas semanales",
+    "bHOpenBtnTitle": "Abierto",
+    "timeSlotToggleButton": "¿Quieres establecer franjas horarias? (Predeterminado todo el día)",
+    "timeSlotStartTitle": "Comenzar",
+    "timeSlotEndTitle": "Fin",
+    "specialHoursToggleTitle": "Horario especial: anulaciones",
+    "specialHoursToggleNote": "Defina su horario de apertura semanal para anular",
+    "geoAddressPlaceholder": "Buscar dirección",
+    "formValidation": {
+      "requiredField": "se requiere.",
+      "minimumLength5": "Debe tener al menos 5 caracteres.",
+      "minimumLength3": "Debe tener al menos 3 caracteres.",
+      "validEmail": "Debe ser un correo electrónico válido.",
+      "geoAddressRequired": "Este campo es obligatorio"
+    }
+  },
+
+  "myAdsListItemTexts": {
+    "viewsText": "Views : ",
+    "soldOut": "Agotado"
+  },
+
+  "OHTimePickerTexts": {
+    "okButtonTitle": "OK"
+  },
+
+  "screenTexts": {
+    "noInternetText": "¡Error de conexión! Por favor verifique la conexión a Internet."
+  },
+
+  "sellerContactTexts": {
+    "call": "Llamar",
+    "email": "Correo electrónico",
+    "chat": "Chat"
+  },
+
+  "similarAdListItemTexts": {
+    "viewsText": "Views : "
+  },
+
+  "membershipCardTexts": {
+    "ads": "Anuncios",
+    "validityUnit": "Días",
+    "regular": "Regular"
+  },
+
+  "callForPrice": "Llamar para preguntar el precio",
+
+  "options_user": [
+    {
+      "title": "Mis listados",
+      "id": "my_listings"
+    },
+    {
+      "title": "Favoritos",
+      "id": "favourite"
+    },
+    {
+      "title": "Mi membresía",
+      "id": "my_membership"
+    },
+    {
+      "title": "Mi tienda",
+      "id": "my_store"
+    },
+    {
+      "title": "Mi perfil",
+      "id": "my_profile"
+    },
+    {
+      "title": "Pagos",
+      "id": "payments"
+    },
+    {
+      "title": "Mis documentos",
+      "id": "my_documents"
+    },
+    {
+      "title": "Privacidad y seguridad",
+      "id": "privacy_safety"
+    }
+  ],
+
+  "options_drawer": [
+    {
+      "title": "Todas las tiendas",
+      "id": "all_stores"
+    },
+    {
+      "title": "Preguntas más frecuentes",
+      "id": "faq"
+    },
+    {
+      "title": "Cómo vender rápido",
+      "id": "how_to_sell_fast"
+    },
+    {
+      "title": "Sobre nosotros",
+      "id": "about"
+    },
+    {
+      "title": "política de privacidad",
+      "id": "pp"
+    },
+    {
+      "title": "Términos y condiciones",
+      "id": "tnc"
+    },
+    {
+      "title": "Contacta con nosotros",
+      "id": "contact"
+    },
+    {
+      "title": "Ajustes de Aplicacion",
+      "id": "settings"
+    },
+    {
+      "title": "Compartir con amigos",
+      "id": "share"
+    }
+  ],
+
+  "appDescription": {
+    "paras": [
+      {
+        "paraTitle": "",
+        "paraDetail": "Con esta aplicación puedes acceder al mercado de clasificados más increíble del país, donde puedes comprar, buscar y vender muchos productos diferentes sobre la marcha. Ventas no te limita en términos de los productos que puedes comprar o vender. Te permite vender motocicletas, vehículos, productos electrónicos y mucho más. Es más, si estás interesado en vender, comprar o alquilar una propiedad, o publicar o buscar trabajo dentro del país o en el extranjero, puedes encontrarlo todo en Ventas.\n\nExplora listados en categorías como:",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Electrónica",
+        "paraDetail": [
+          "Puede vender y comprar productos electrónicos nuevos y usados, como cámaras, televisores, tabletas, teléfonos, computadoras portátiles, videojuegos, equipos de iluminación, equipos de audio, consolas de juegos, etc.",
+          "Puedes comparar los precios de productos similares y encontrar accesorios, como carcasas y adaptadores para teléfonos."
+        ],
+        "paraType": "bullets"
+      },
+      {
+        "paraTitle": "Vehículos y Motos",
+        "paraDetail": [
+          "Puede vender y comprar autobuses, furgonetas, scooters, motocicletas, barcos y vehículos pesados nuevos y usados.",
+          "Ventas te permite comparar los precios de todas las marcas de vehículos, incluidos Honda, Hyundai, Mitsubishi, Toyota, Mazda, Nissan, Kia, etc.",
+          "Llegar a los listados que desea es fácil ya que puede filtrar su búsqueda por rango de precios, kilometraje, año del modelo, marca, condición, etc.",
+          "También puede comprar repuestos y accesorios para su vehículo."
+        ],
+        "paraType": "bullets"
+      },
+      {
+        "paraTitle": "Propiedades",
+        "paraDetail": [
+          "Ventas le permite vender, comprar y alquilar propiedades fácilmente.",
+          "Puede buscar terrenos, propiedades comerciales, casas, pisos y apartamentos mientras filtra su búsqueda por ubicación, precio, condición, etc.",
+          "Puede comparar fácilmente los precios de listados de propiedades similares."
+        ],
+        "paraType": "bullets"
+      },
+
+      {
+        "paraTitle": "Con Ventas podrás:",
+        "paraDetail": "Explore miles de anuncios locales con Ventas, una aplicación móvil fácil de usar. Puede realizar su búsqueda por ubicación del listado, categoría y palabras clave, para que pueda encontrar exactamente lo que desea. Los compradores pueden comunicarse con los vendedores y hacer tratos para comprar listados fácilmente. Los compradores pueden guardar los listados que desean comprar más tarde para verlos más tarde.\n\nPuede promocionar sus anuncios usando Bump Up y Top Ads para que se vendan más rápido. Puede encontrar todas las categorías que desee directamente dentro de Ventas. Publicar y administrar anuncios es fácil directamente desde su teléfono. Ventas consume muy pocos datos.\n\nPuedes descargar la aplicación gratuita ahora mismo y tener el mercado en tu palma.\n\n¡Bienvenido!",
+        "paraType": "para"
+      }
+    ],
+    "link": "https://www.facebook.com/groups/compra.ventas.store",
+    "linkedPara": [
+      "¿Tienes curiosidad por Ventas? Consulta las características del ",
+      "Grupo Compra y Ventas en Facebook",
+      ""
+    ]
+  },
+
+  "drawerScreenTexts": {
+    "copyrightText": "2024© Todos los derechos reservados por",
+    "linkText": "Ventas"
+  },
+
+  "frequentlyAskedQuestions": [
+    {
+      "question": "¿Cómo publico un anuncio?",
+      "answer": "Puede publicar fácilmente su anuncio; Simplemente toque el ícono más (+) y luego inicie sesión y envíe su anuncio con los datos adecuados. Recibirá una notificación después de enviar su anuncio."
+    },
+    {
+      "question": "¿Cómo edito/elimino mis anuncios?",
+      "answer": "Simplemente inicie sesión y vaya a Cuenta => mi anuncio y obtendrá una lista de sus anuncios. Cada anuncio tiene opción de eliminación."
+    },
+    {
+      "question": "¿Cómo editar mi anuncio?",
+      "answer": "Simplemente inicie sesión y vaya a Cuenta => mi anuncio y obtendrá una lista de sus anuncios. Cada anuncio tiene opción de edición."
+    },
+    {
+      "question": "¿Cuántos días permanecerán activos mis anuncios?",
+
+      "answer": "Depende de su configuración cuántos días estará activa la lista, depende de ello los anuncios serán visibles "
+    },
+    {
+      "question": "¿Cuántos anuncios puedo publicar gratis?",
+      "answer": "Depende de su configuración en el sitio web, el vendedor no recibirá anuncios gratuitos para publicar durante un número determinado de días."
+    },
+    {
+      "question": "¿Cómo puedo editar la información de mi cuenta?",
+      "answer": "Inicie sesión y luego vaya a mi cuenta, obtendrá la opción de editar la información de su cuenta."
+    },
+    {
+      "question": "¿Cómo empezar a chatear con alguien?",
+      "answer": "Ir al detalle de un anuncio; Obtendrá la opción de correo electrónico, teléfono y chat. Simplemente toque el ícono de chat e inicie su conversación."
+    },
+    {
+      "question": "¿Recibiré notificaciones de chat como vendedor?",
+      "answer": "Sí. Para solicitudes de chat o correo electrónico, el vendedor recibirá una notificación por correo electrónico. Para el chat, el comprador recibirá el primer mensaje inicial como notificación por correo electrónico."
+    }
+  ],
+
+  "sellFastTips": [
+    {
+      "id": 1,
+      "title": "Elige el precio correcto",
+      "detail": "El precio es un factor importante para el cliente que compra el artículo. Entonces, antes de fijar el precio, visite anuncios similares y establezca un precio razonable y competitivo."
+    },
+    {
+      "id": 2,
+      "title": "Usa excelentes fotos",
+      "detail": "Utilice fotografías claras y reales de su/s producto/s. Puede utilizar varias imágenes desde diferentes vistas para que el comprador tenga una idea más clara sobre su artículo o artículos."
+    },
+    {
+      "id": 3,
+      "title": "Proporcionar una descripción clara",
+      "detail": "Proporcione una descripción clara y detallada de su producto. Asegúrate de haber agregado la información correcta sobre tus artículos."
+    }
+  ],
+
+  "moreOptions": [
+    {
+      "title": "Contacta con nosotros",
+      "detail": "Si tiene algún problema o no encontró la respuesta a su pregunta en la sección de preguntas frecuentes, no dude en contactarnos.",
+      "id": "contact_us"
+    },
+    {
+      "title": "Acerca de esta aplicación",
+      "detail": "Ventas es una plataforma online donde puedes comprar y vender casi de todo. Los mejores acuerdos suelen realizarse con personas que viven cerca. Es un lugar donde puedes conseguir de todo.",
+      "id": "about_us"
+    },
+    {
+      "title": "Términos y condiciones",
+      "detail": "Asegúrese de leer estos Términos y condiciones antes de utilizar esta aplicación.",
+      "id": "tnc"
+    },
+    {
+      "title": "política de privacidad",
+      "detail": "Felipe Campos, el creador de la aplicación móvil Ventas, prioriza y valora la seguridad y privacidad de la información que usted comparte con nosotros a través de Ventas. Pretendemos que nuestros usuarios se sientan lo más cómodos posible usando nuestra aplicación. Si va a confiarnos su información, debe comprender cómo la recopilamos, usamos y mantenemos.\n\nCuando esté a punto de adquirir Ventas, deberá registrarse con nosotros. El registro nos proporciona su nombre, apellido y dirección de correo electrónico.",
+      "id": "pp"
+    }
+  ],
+
+  "privacyPolicy": {
+    "paras": [
+      {
+        "paraTitle": "",
+        "paraDetail": "Felipe Campos, el creador de la aplicación móvil Ventas, prioriza y valora la seguridad y privacidad de la información que usted comparte con nosotros a través de Ventas. Pretendemos que nuestros usuarios se sientan lo más cómodos posible usando nuestra aplicación. Si va a confiarnos su información, debe comprender cómo la recopilamos, usamos y mantenemos.\n\nCuando esté a punto de adquirir Ventas, deberá registrarse con nosotros. El registro nos proporciona su nombre, apellido y dirección de correo electrónico.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Recopilación y uso de información",
+        "paraDetail": "Es posible que le solicitemos que nos proporcione cierta información personal para una mejor experiencia. Esta información incluye, entre otros, nombre, dirección y datos de ubicación. Esta información solo será accesible para nosotros y solo se utilizará como se describe en esta política de privacidad.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Informacion personal:",
+        "paraDetail": "Cuando se registra y proporciona su nombre, dirección de correo electrónico, nombre de usuario de la cuenta y contraseña, no conservaremos la información de su dirección. En cambio, esta información se almacena en 2Checkout, nuestra empresa de pasarela de pagos.\n\nEs posible que también necesitemos información adicional para fines de soporte, como la URL de su sitio, administrador y acceso FTP. Solo recopilamos estos datos cuando necesita un soporte amplio y eficaz. Todos los datos que recibimos para las solicitudes de soporte se guardan en Freshdesk, nuestro sistema de soporte externo.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Información no personal:",
+        "paraDetail": "Cuando descarga Ventas, la misma pasarela de pago recopila su dirección IP e información de ubicación geográfica.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Correos electrónicos del sistema de soporte:",
+        "paraDetail": "Cuando ofrecemos soporte para nuestra aplicación Ventas, no almacenamos su dirección de correo electrónico incluso cuando nos envía un correo electrónico para solicitar soporte. Utilizamos el sistema de soporte de Freshdesk, que admite comunicaciones por correo electrónico y almacena los nombres de usuario y direcciones de correo electrónico de nuestros usuarios. Sin embargo, si es necesario, podemos importar/exportar los datos.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "¿Por qué se recopila información del usuario?",
+        "paraDetail": "Si tiene un sitio web y necesita utilizar Ventas, deberá registrarse con nosotros, tras lo cual recopilaremos su información personal. Este registro efectivamente lo convierte en nuestro cliente y puede descargar elementos de nuestro sitio.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "¿Para qué se utilizan sus datos?",
+        "paraDetail": "Con los datos almacenados con nuestro soporte para el sistema de soporte de Freshdesk, podemos identificarlo como nuestro cliente y enviarle notificaciones y actualizaciones. La información que enviamos podría ser lanzamientos de productos, actualizaciones y ofertas de descuentos. Los usuarios invitados (que no se han registrado) no tienen permiso para realizar ninguna acción en nuestros sitios web. Por lo tanto, como cliente valioso, confiamos en usted lo suficiente como para permitirle realizar estas acciones.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "¿Durante cuánto tiempo se conserva la información personal?",
+        "paraDetail": "Cuando se registra con nosotros, su información personal y su correo electrónico se conservan para brindarle asistencia futura. Esta información permanece almacenada con nosotros hasta que usted elimine su información personal.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Lo que no hacemos con su información personal:",
+        "paraDetail": "No divulgamos, compartimos ni proporcionaremos nunca su información privada con otras empresas para comercializar sus propios servicios o productos. También va en contra de nuestra política compartir su información personal con personas no autorizadas.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Sus derechos sobre sus datos:",
+        "paraDetail": "Como usuario registrado, tiene derecho a editar su información personal. También puede solicitar que se exporte un archivo con su información. Al iniciar sesión en nuestro sitio, también puede eliminar sus datos.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Cookies",
+        "paraDetail": "Las cookies son pequeños archivos con pocos datos que a menudo se utilizan para una identificación anónima única. El sitio web que visita las envía a su navegador y las almacena en la memoria interna de su dispositivo.\n\nAunque nuestra aplicación o servicio puede no utilizar cookies explícitamente, puede utilizar codificación de terceros que las utiliza para recopilar información y mejorar sus servicios. Sabrá cuándo se envían cookies a su dispositivo y tendrá la opción de aceptarlas o rechazarlas. Sin embargo, rechazar las cookies puede impedirle acceder a algunos servicios.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Nuestros procedimientos de seguridad contra violaciones de datos:",
+        "paraDetail": "Valoramos la confianza que ha depositado en nosotros al brindarnos su información personal. Por lo tanto, empleamos medios y tecnologías de seguridad estándar de la industria para proteger su información personal contra divulgación, acceso o uso no autorizados. No revele su contraseña de registro y nombre de usuario a personas no autorizadas para ayudarnos a proteger su privacidad.\n\nAunque ningún método de transmisión por Internet o procedimiento de almacenamiento electrónico es 100% hermético, RadiusTheme y Ventas no dejan nada al azar en sus esfuerzos por proteger su información personal.\n\nEn caso de que personas no autorizadas accedan a su información o se pierda, le informaremos tan pronto como tengamos conocimiento de ello.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Cómo acceder a sus datos o editar su información personal:",
+        "paraDetail": "Cuando inicie sesión en nuestro sitio con sus datos, toda la información de su cuenta estará disponible para que la edite o la elimine. Si desea detener las notificaciones por correo electrónico para la aplicación Classima, simplemente cancele su suscripción o envíenos un correo electrónico y borraremos su correo electrónico o cuenta. Asegúrese de que el asunto de su correo electrónico diga 'eliminar mi nombre de usuario'.",
+        "paraType": "para"
+      },
+      {
+        "paraTitle": "Contacta con nosotros",
+        "paraDetail": "Si tiene alguna sugerencia o pregunta sobre nuestra política de privacidad, no dude en contactarnos a través de administrador@compra-ventas.store.",
+        "paraType": "para"
+      }
+    ],
+    "link": "",
+    "linkedPara": []
+  },
+
+  "termsAndConditions": [
+    {
+      "paraTitle": "",
+      "paraData": "Ventas es un servicio de aplicación móvil creado y proporcionado por radiotheme.com, sujeto a que usted acepte los Términos y condiciones que se describen a continuación. Asegúrese de leer estos Términos y condiciones antes de usar esta aplicación."
+    },
+    {
+      "paraTitle": "General",
+      "paraData": "Es responsabilidad de todos los anunciantes y otros usuarios garantizar que todo el contenido (imagen, video, gráficos y texto) cargado para su inclusión en la plataforma cumpla con las leyes pertinentes. Ventas y radiotheme.com no asumen ninguna responsabilidad por cualquier inexactitud o ilegalidad del contenido publicado.\n\nLos anunciantes y todos los usuarios garantizan que su contenido no viola ningún derecho de autor, derechos de propiedad intelectual ni ningún otro derecho de ninguna entidad o persona. El usuario o anunciante acepta liberar a Ventas y radiotheme.com de todas las obligaciones, reclamos y responsabilidades que surjan o estén relacionados con el uso o la imposibilidad de usar el servicio.\n\nLos anunciantes aceptan que su contenido se presente a través de los sitios asociados de Ventas y compra-ventas.store, bajo los mismos términos y condiciones que en Ventas y compra-ventas.store."
+    },
+    {
+      "paraTitle": "Copyright",
+      "paraData": "Los anunciantes otorgan efectivamente a Ventas y compra-ventas.store una licencia y el derecho perpetuo, irrevocable, libre de regalías y no exclusivo para usar, modificar, reproducir, publicar, adaptar, traducir, crear trabajos derivados y distribuir o incorporar dicho contenido en cualquier forma, tecnología o medio ahora conocido o desarrollado posteriormente.\n\nEl material (incluido el contenido, el software o los servicios) de Ventas es propiedad de compra-ventas.store, sus afiliados, subsidiarias y/o terceros. licenciantes. Todos los derechos de propiedad intelectual, como derechos de autor, marcas de servicio, marcas comerciales, nombres comerciales y otras marcas distintivas en Ventas son propiedad de Felipe Campos.\n\nNingún material encontrado en Ventas o compra-ventas.store puede ser copiado, republicado, reproducido, instalado, transmitido, publicado, almacenado o distribuido sin el permiso explícito por escrito de Felipe Campos."
+    },
+    {
+      "paraTitle": "Marcas de agua",
+      "paraData": "Todas las imágenes de Ventas tienen marcas de agua para evitar que se reutilicen para otros fines sin el permiso del anunciante."
+    },
+    {
+      "paraTitle": "Seguridad e Imágenes",
+      "paraData": "Ventas y compra-ventas.store se reservan el derecho de modificar el título de cualquier contenido de la aplicación con fines editoriales. Ventas y compra-ventas.store se reservan el derecho de negarse a publicar imágenes inapropiadas o que violen las normas de Felipe Campos."
+    },
+    {
+      "paraTitle": "Personal",
+      "paraData": "Ventas y Felipe Campos se reservan el derecho de cooperar con las autoridades en caso de que algún contenido de la aplicación viole la ley. La identidad de los usuarios, compradores o anunciantes puede ser determinada, por ejemplo, por un ISP. También se pueden registrar direcciones IP para garantizar que todos los usuarios, compradores y anunciantes cumplan con los términos y condiciones."
+    },
+    {
+      "paraTitle": "Privacidad",
+      "paraData": "Ventas y Felipe Campos recopilarán información de usuarios, compradores y anunciantes. Como condición de uso de Ventas, cada usuario y anunciante consiente y autoriza a Ventas y compra-ventas.store a recopilar y utilizar esta información. Ventas y compra-ventas.store también se reserva el derecho de divulgar la información a los Afiliados de la Compañía y a cualquier otra persona con el fin de respaldar, administrar y mantener Ventas, así como para mejorar Ventas, por ejemplo, utilizando la información para marketing, Investigación, planificación y desarrollo de productos.."
+    },
+    {
+      "paraTitle": "Cookies",
+      "paraData": "Esta aplicación puede utilizar cookies, lo que significa que su dispositivo debe estar habilitado para cookies. Un archivo cookie contiene información, como una identificación de usuario aleatoria que el sitio asigna automáticamente a un visitante para realizar un seguimiento de las páginas que visita. Las cookies no pueden leer datos de su disco duro ni otros archivos cookie de otros sitios. Las cookies, por sí solas, no pueden utilizarse para determinar la identidad del usuario."
+    },
+    {
+      "paraTitle": "Dirección de correo electrónico de los usuarios",
+      "paraData": "Los usuarios deben enviar direcciones de correo electrónico válidas antes de que se les permita publicar anuncios. Las direcciones de correo electrónico no se mostrarán públicamente. Sin embargo, los usuarios pueden enviar correos electrónicos a otros usuarios a través de Ventas."
+    },
+    {
+      "paraTitle": "Disponibilidad del sitio",
+      "paraData": "Ventas y compra-ventas.store no garantizan un acceso ininterrumpido o seguro a la aplicación. La aplicación se proporciona 'tal cual' y cuando esté disponible."
+    },
+    {
+      "paraTitle": "Enlaces a sitios web de terceros",
+      "paraData": "Ventas puede contener referencias y enlaces a otros sitios (Sitios web de terceros). Sin embargo, Ventas o compra-ventas.store no serán responsables de los contenidos de estos sitios web de terceros. Los sitios web de terceros no son monitoreados ni investigados por Ventas o compra-ventas.store. Una vez que un usuario decide salir de Ventas y acceder a un sitio web de terceros, lo hace bajo su propio riesgo."
+    },
+    {
+      "paraTitle": "Contenido y servicio pagose",
+      "paraData": "Algunos de los servicios y contenidos de Ventas pueden requerir pago, incluidos, entre otros; paquetes de membresía y publicación de anuncios en algunas categorías específicas.\n\nLos usuarios pueden comprar promociones publicitarias utilizando vales vendidos o emitidos por Ventas. Los vales no se pueden canjear por dinero en efectivo.\n\nEs posible que los anunciantes y otros usuarios deban transmitir la información de su contenido pago a través de un proveedor externo, que se rige por sus propios términos y condiciones. Dichos usuarios y anunciantes aceptan dichos enlaces bajo su propia responsabilidad y Ventas se exime de toda responsabilidad relacionada con los mismos. Ventas no estará, bajo ninguna circunstancia, obligada a reembolsar los pagos realizados en relación con el contenido pago."
+    },
+    {
+      "paraTitle": "Membresías",
+      "paraData": "Ventas creará una tienda en nombre del usuario. La tienda creada quedará desprovista de contenidos, a la espera de la incorporación de los mismos por parte del usuario. Ventas tiene derecho a cualquier contenido agregado a la tienda por el usuario y tiene el derecho de eliminar o negarse a publicar contenido que considere inapropiado o que viole cualquier aspecto de los términos y condiciones.\n\nVentas se reserva el derecho de cambiar o modificar paquetes de membresía, incluido su precio y contenido.\n\nVentas no está obligado a reembolsar servicios o dinero si un paquete de membresía se cancela anticipadamente, por cualquier motivo."
+    },
+    {
+      "paraTitle": "Descargo de responsabilidad",
+      "paraData": "Ventas y compra-ventas.store no asumen responsabilidad alguna por el uso de Ventas y renuncian a toda responsabilidad por cualquier reclamo, lesión, daño o responsabilidad de cualquier tipo que resulte de, o surja de, o esté relacionado de cualquier manera con (a) cualquier errores en Ventas o el Contenido, incluidos, entre otros, errores tipográficos y errores técnicos, (b) cualquier sitio web o contenido de terceros al que se acceda o recupere directa o indirectamente a través de enlaces en Ventas, (c) la indisponibilidad de Ventas, (d) su uso de Ventas o el Contenido, o (e) su uso de cualquier equipo (o software) en relación con Ventas."
+    },
+    {
+      "paraTitle": "Indemnización",
+      "paraData": "Los anunciantes y otros usuarios acuerdan indemnizar a Ventas y compra-ventas.store así como a sus empleados, agentes, funcionarios, directores, de y contra todos los gastos, pérdidas, daños y costos, incluidos los honorarios de abogados, que surjan de cualquier violación de estos Términos y condiciones ( incluyendo conducta negligente o ilícita)."
+    },
+    {
+      "paraTitle": "Modificaciones",
+      "paraData": "Ventas y Felipe Campos se reservan el derecho de alterar o modificar estos Términos y Condiciones. Dicha alteración o modificaciones entrarán en vigor inmediatamente después de su publicación en Ventas. Usted es responsable de revisar periódicamente dichas modificaciones. Su acceso o uso continuo de Ventas se considerará como su aceptación de los términos y condiciones modificados."
+    },
+    {
+      "paraTitle": "Ley que rige",
+      "paraData": "Ventas opera según las leyes y regulaciones del país respectivo."
+    }
+  ],
+  "relativeTime": {
+    "future": "en %s",
+    "past": "%s atrás",
+    "s": "unos pocos segundos",
+    "m": "un minuto",
+    "mm": "%d minutos",
+    "h": "una hora",
+    "hh": "%d horas",
+    "d": "un día",
+    "dd": "%d días",
+    "M": "un mes",
+    "MM": "%d meses",
+    "y": "un año",
+    "yy": "%d años"
+  },
+  "promotions": {
+    "_bump_up": "Subir",
+    "_top": "Top",
+    "featured": "Presentado"
+  },
+  "listingStatus": {
+    "expired": "Caducado",
+    "publish": "Publicado",
+    "pending": "Pendiente",
+    "draft": "Borrador",
+    "reviewed": "Revisado"
+  },
+  "fixedPriceLabel": "Fijo",
+  "negotiablePriceLabel": "Negociable"
+}

@@ -1,6 +1,7 @@
-const defaultLng = "en";
+const defaultLng = "es";
 
 const lngs = {
+  es: require("./es.json"),
   en: require("./en.json"),
   ar: require("./ar.json"),
 };

@@ -54,7 +54,7 @@ export const initialState = {
       max_distance: 1000,
       units: "miles",
     },
-    store_enabled: false,
+    store_enabled: true,
     store: {
       time_options: {
         showMeridian: true,

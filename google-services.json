@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361499596102",
+    "project_id": "flash-student-303923",
+    "storage_bucket": "flash-student-303923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361499596102:android:5ba8cd8ccf262054284147",
+        "android_client_info": {
+          "package_name": "com.compra.ventas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_108x4n7vBRkMFjUJGqBA0e0rqQP6Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

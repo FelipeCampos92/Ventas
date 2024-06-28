@@ -1,14 +1,14 @@
 export const COLORS = {
-  primary: "#f85c70",
-  primary_soft: "#ff8f9d",
-  bg_primary: "#ffd1d6",
+  primary: "#5ca2f8",
+  primary_soft: "#5ca0f8",
+  bg_primary: "#5cbcf8",
 
   button: {
     disabled: "#f797a3",
-    active: "#f85c70",
+    active: "#5ca2f8",
   },
 
-  bg_splash: "#f85c70",
+  bg_splash: "#5ca2f8",
 
   badges: {
     _top: "#f39f0a",
@@ -18,12 +18,12 @@ export const COLORS = {
     "is-popular": "#14e0ad",
     bg: {
       "is-popular": "#14e0ad",
-      "is-featured": "#f85c70",
-      "is-top": "#f85c70",
-      "is-bump-up": "#f85c70",
-      new: "#f85c70",
-      "is-popular": "#f85c70",
-      popular: "#f85c70",
+      "is-featured": "#5ca2f8",
+      "is-top": "#5ca2f8",
+      "is-bump-up": "#5ca2f8",
+      new: "#5ca2f8",
+      "is-popular": "#5ca2f8",
+      popular: "#5ca2f8",
     },
     text: {
       "is-popular": "#ffffff",
